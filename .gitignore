@@ -33,3 +33,5 @@ bin/
 !**/src/main/resources/input/.gitkeep
 **/src/main/resources/output/*
 !**/src/main/resources/output/.gitkeep
+
+.idea
